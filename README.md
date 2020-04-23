@@ -1,3 +1,7 @@
+## About
+
+A instagram clone that alows you to upload and heart pictures.
+
 ## Installation
 
 1. Clone repo
